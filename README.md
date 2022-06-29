@@ -19,4 +19,7 @@ $ npm install
 $ npm start
 ```
 
+## Formula by mathJax
+
+$$ y=x+1 $$
 
